@@ -1,0 +1,4 @@
+pycaret
+joblib
+streamlit
+numpy
